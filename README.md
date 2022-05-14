@@ -2,7 +2,7 @@
 
 <!--
 **devnicius/devnicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 <h1 align="center">Olá 👋, sou Vinícius</h1>
 <h3 align="center">Um apaixonado desenvolvedor full stack do Brasil</h3>
 
