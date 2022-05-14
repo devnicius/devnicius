@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hello!<h1/>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Java stack and related technologies  
   
 
-- ⚡ Fun fact: I   
+- ⚡ Fun fact: I can't stand using white themes  
   
 
 <br/>  
