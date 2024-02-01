@@ -1,6 +1,6 @@
 <div class="markdown-body container-lg">
   <p dir="auto" align="center">
-    <font size="+5">Analyst and Developer | PL/SQL and Java</font>
+    <font size="+5">Analyst and Developer | PL/SQL, JS and Java</font>
   </p>
   <p dir="auto" align="center">
     <a href="https://devnicius.online/about" rel="nofollow" target=”_blank”>About</a> |
