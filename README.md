@@ -4,6 +4,7 @@
   </p>
   <p dir="auto" align="center">
     <font size="+1">  ↣ I'm currently studying React Native and React</font>
+    <br>
     <font size="+1">  ↣ I'm currently developing interesting applications in React Native</font>
   </p>
   <p dir="auto" align="center">
