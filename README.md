@@ -1,9 +1,10 @@
 <div class="markdown-body container-lg">
   <p dir="auto" align="center">
-    <font size="+5">Analyst and Developer | PL/SQL, JS and Java</font>
+    <font size="+5">Developer | React, React Native, TS, PostgreSQL, PL/SQL and Java</font>
   </p>
   <p dir="auto" align="center">
-    <font size="+1">  ↣ I'm currently studying Angular and Java</font>
+    <font size="+1">  ↣ I'm currently studying React Native and React</font>
+    <font size="+1">  ↣ I'm currently developing interesting applications in React Native</font>
   </p>
   <p dir="auto" align="center">
     <a href="https://devnicius.com.br/about" rel="nofollow" target=”_blank”>About</a> |
